@@ -1,1 +1,1 @@
-web: gunicorn yourtranscriber.wsgi
+web: gunicorn app:app
